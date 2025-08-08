@@ -47,10 +47,7 @@ CTH-2025/
 | `DELETE` | `/api/users/<id>`  | 刪除使用者                                  |
 | `GET`    | `/api/departments` | 部門列表                                   |
 ---
-## 🔗 前端 Repo
-
-前端 Vue 專案請見 👉 [https://github.com/onelovehch/CTH‑HRMIS-Frontend]
----
 ## 📝 License
 
 Released under the MIT License © 2025 onelovehch
+
